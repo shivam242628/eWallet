@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7232239e-0bec-4604-8bd9-16608773a595" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/BookCatalog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/BookCatalog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/BookCatalog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/BookCatalog/BookCatalog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/GarbageCollection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/GarbageCollection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/GarbageCollection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/GarbageCollection/GarbageCollection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/main/java/io/app/kafka/FrameworkKafkaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/main/java/io/app/kafka/example/BusinessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/main/java/io/app/kafka/framework/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/main/java/io/app/kafka/framework/producer/BaseProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/test/java/io/app/kafka/FrameworkKafkaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongodbpractice/src/main/java/org/arpit/mongodbpractice/package3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/MongodbpracticeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/Reviewers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/TestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package2/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package2/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package2/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package2/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/test1.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../streams/src/main/java/com/kafka/streams/wordCount/WordCountApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-kafka/src/main/java/com.kafka/twitterkafka/config/ApplicationContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-kafka/src/main/java/com.kafka/twitterkafka/kafka/config/ConsumerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-kafka/src/main/java/com.kafka/twitterkafka/kafka/config/ProducerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-kafka/src/main/java/com.kafka/twitterkafka/kafka/service/KafkaService.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7232239e-0bec-4604-8bd9-16608773a595" name="Default Changelist" comment="" />
+      <created>1573578542686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573578542686</updated>
+      <workItem from="1573578544442" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+rootProject.name = 'crud-spring-boot'
+include ':beginner'
+include ':play-with-apis'
+

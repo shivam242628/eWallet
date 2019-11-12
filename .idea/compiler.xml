@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.shivam.beginner.play-with-apis.main" target="1.8" />
+      <module name="com.shivam.beginner.play-with-apis.test" target="1.8" />
+      <module name="com.shivam.play-with-apis.main" target="1.8" />
+      <module name="com.shivam.play-with-apis.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

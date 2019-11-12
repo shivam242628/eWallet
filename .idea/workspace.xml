@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e72fee10-a792-4294-98d7-b9e0c194ff7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/BookCatalog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/BookCatalog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/BookCatalog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/BookCatalog/BookCatalog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/GarbageCollection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/GarbageCollection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/GarbageCollection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Files_Java_Memory_Management/Exercise Files/SupportingCode/GarbageCollection/GarbageCollection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/main/java/io/app/kafka/FrameworkKafkaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/main/java/io/app/kafka/example/BusinessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/main/java/io/app/kafka/framework/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/main/java/io/app/kafka/framework/producer/BaseProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../framework-kafka/src/test/java/io/app/kafka/FrameworkKafkaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongodbpractice/src/main/java/org/arpit/mongodbpractice/package3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/MongodbpracticeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/Reviewers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/TestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package1/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package2/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package2/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package2/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package2/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/package3/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morphia-mongodb/src/main/java/mongodbpractice/test1.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../streams/src/main/java/com/kafka/streams/wordCount/WordCountApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-kafka/src/main/java/com.kafka/twitterkafka/config/ApplicationContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-kafka/src/main/java/com.kafka/twitterkafka/kafka/config/ConsumerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-kafka/src/main/java/com.kafka/twitterkafka/kafka/config/ProducerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter-kafka/src/main/java/com.kafka/twitterkafka/kafka/service/KafkaService.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/beginner/.gradle/" />
+    <ignored path="$PROJECT_DIR$/beginner/build/" />
+    <ignored path="$PROJECT_DIR$/beginner/out/" />
+    <ignored path="$PROJECT_DIR$/play-withapis/.gradle/" />
+    <ignored path="$PROJECT_DIR$/play-withapis/build/" />
+    <ignored path="$PROJECT_DIR$/play-with-apis/.gradle/" />
+    <ignored path="$PROJECT_DIR$/play-with-apis/build/" />
+    <ignored path="$PROJECT_DIR$/play-with-apis/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/play-with-apis/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/play-with-apis/src/main/java/com/shivam/springBoot/BeginnerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beginner/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/beginner/build.gradle" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/play-with-apis/src/main/java/com/shivam/springBoot/BeginnerApplication.java" />
+        <option value="$PROJECT_DIR$/play-with-apis/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="beginner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="beginner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="beginner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="beginner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="beginner" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="play-with-apis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="play-with-apis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="play-with-apis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="play-with-apis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crud-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crud-spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="play-with-apis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BeginnerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com.shivam.beginner.play-with-apis.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shivam.springBoot.BeginnerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e72fee10-a792-4294-98d7-b9e0c194ff7c" name="Default Changelist" comment="" />
+      <created>1573577776373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573577776373</updated>
+      <workItem from="1573577778198" duration="1231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1231000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Learn" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.31347963" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/beginner/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginner/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play-with-apis/src/main/java/com/shivam/beginner.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play-with-apis/src/main/java/com/shivam/springBoot/BeginnerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play-with-apis/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|play-with-apis|shivam</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
