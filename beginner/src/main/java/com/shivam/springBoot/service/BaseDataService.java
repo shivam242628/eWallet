@@ -19,7 +19,7 @@ public class BaseDataService<T extends BaseEntity<T>, V extends BaseVo<V>> imple
 
     private IConverter<T, V> converter;
 
-    BaseDataService(JpaRepository<T, Integer> repo, IConverter<T, V> converter) {
+    public BaseDataService(JpaRepository<T, Integer> repo, IConverter<T, V> converter) {
         this.repo = repo;
         this.converter = converter;
     }

@@ -24,7 +24,7 @@ public abstract class BaseController<T extends BaseEntity<T>, V extends BaseVo<V
         this.iDataService = iDataService;
     }
 
-    @PostMapping(value = "", consumes = "application/json", produces = "application/json")
+    @PostMapping(value = "", produces = "application/json")
     public V save(@RequestBody V v) {
         return iDataService.save(v);
     }

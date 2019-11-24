@@ -21,5 +21,4 @@ public interface IRepository<T extends BaseEntity<T>> {
 
     List<T> deleteAll();
 
-
 }
